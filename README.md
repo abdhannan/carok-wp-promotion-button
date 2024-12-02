@@ -109,4 +109,3 @@ The following technologies are used in this plugin:
 3. **Ready for WordPress Standards:**
    - Fully compliant with WordPress `readme.txt` formatting standards.
 
-Let me know if you need help creating the icon, screenshots, or any further adjustments! 😊
