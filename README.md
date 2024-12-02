@@ -1,7 +1,7 @@
 # Carok WP Promotion Button
 
 [![Plugin Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/abdhannan/carok-wp-promotion-button)
-[![WordPress Tested](https://img.shields.io/badge/WordPress-6.3%20Tested-brightgreen.svg)](https://wordpress.org/)
+[![WordPress Tested](https://img.shields.io/badge/WordPress-6.7%20Tested-brightgreen.svg)](https://wordpress.org/)
 [![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue.svg)](https://php.net)
 [![License](https://img.shields.io/badge/license-GPL--2.0%20or%20later-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
