@@ -87,11 +87,12 @@ The plugin includes a `.pot` file in the `languages/` folder, making it ready fo
 
 The following technologies are used in this plugin:
 
-- ![PHP Logo](https://www.php.net/images/logos/php-logo.svg) PHP 7.4+
-- ![WordPress Logo](https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png) WordPress API
-- ![HTML5 Logo](https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg) HTML5
-- ![CSS3 Logo](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg) CSS3
-- ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) JavaScript (jQuery)
+- ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg =20x20) PHP 7.4+
+- ![WordPress](https://upload.wikimedia.org/wikipedia/commons/2/2a/WordPress_blue_logo.svg =20x20) WordPress API
+- ![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg =20x20) HTML5
+- ![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg =20x20) CSS3
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png =20x20) JavaScript (jQuery)
+
 
 == Icon ==
 
